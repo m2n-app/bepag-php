@@ -1,0 +1,11 @@
+{
+	"name": "bepag",
+	"description": "BEPAG",
+	"keywords": ["bepag"],
+	"authors": [
+		{
+			"name": "M2N",
+			"email": "contato@m2n.com.br"
+		}
+	]
+}
