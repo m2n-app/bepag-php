@@ -2,6 +2,9 @@
 	"name": "m2n-app/bepag-php",
 	"description": "BEPAG",
 	"keywords": ["bepag"],
+	"homepage": "https://github.com/m2n-app/bepag-php",
+	"license": "MIT",
+	"version": "0.1",
 	"authors": [
 		{
 			"name": "M2N",
